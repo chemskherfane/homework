@@ -1,0 +1,31 @@
+algorithm,size,kind,wall_ms,cpu_ms,mem_mb,rank
+Bubble Sort,1000,duplicates,1.6411,1.6056,0.0000,5
+Selection Sort,1000,duplicates,1.2143,1.2128,0.0000,4
+Insertion Sort,1000,duplicates,0.0747,0.0752,0.0000,3
+Merge Sort,1000,duplicates,0.0391,0.0438,0.0000,2
+Quick Sort,1000,duplicates,0.0070,0.0074,0.0000,1
+C qsort() (bonus),1000,duplicates,0.0454,0.0458,0.0000,0
+Bubble Sort,5000,duplicates,42.8395,42.6808,0.0000,5
+Selection Sort,5000,duplicates,31.8267,31.6646,0.0000,4
+Insertion Sort,5000,duplicates,1.9455,1.9220,0.0000,3
+Merge Sort,5000,duplicates,0.3056,0.3062,0.0000,2
+Quick Sort,5000,duplicates,0.1126,0.1130,0.0000,1
+C qsort() (bonus),5000,duplicates,0.3951,0.3958,0.0000,0
+Bubble Sort,10000,duplicates,189.1660,181.3444,0.0000,5
+Selection Sort,10000,duplicates,128.7268,125.6684,0.0000,4
+Insertion Sort,10000,duplicates,11.0013,10.9908,0.0000,3
+Merge Sort,10000,duplicates,0.6315,0.6328,0.0000,2
+Quick Sort,10000,duplicates,0.2786,0.2790,0.0000,1
+C qsort() (bonus),10000,duplicates,0.9149,0.9170,0.0000,0
+Bubble Sort,50000,duplicates,7032.4129,6976.9707,0.0000,5
+Selection Sort,50000,duplicates,3188.2455,3136.0997,0.0000,4
+Insertion Sort,50000,duplicates,257.0479,257.0140,0.0000,3
+Merge Sort,50000,duplicates,3.9519,3.9560,0.2266,2
+Quick Sort,50000,duplicates,2.3019,2.3047,0.0000,1
+C qsort() (bonus),50000,duplicates,4.9738,4.9770,0.2266,0
+Bubble Sort,100000,duplicates,,,,
+Selection Sort,100000,duplicates,,,,
+Insertion Sort,100000,duplicates,,,,
+Merge Sort,100000,duplicates,8.7036,8.7080,0.5000,2
+Quick Sort,100000,duplicates,4.9284,4.9340,0.0000,1
+C qsort() (bonus),100000,duplicates,10.9074,10.9120,0.5000,0
